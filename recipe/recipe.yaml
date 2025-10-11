@@ -1,5 +1,5 @@
 context:
-  version: "0.7.0"
+  version: "0.8.0"
 
 package:
   name: cargo-sweep
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/holmgr/cargo-sweep/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 21004272ffacbe19b5e2b6c521a021eb55abd24e96599fc5049c650abb708af2
+  sha256: f35aed1b18c7852684ed98be79e68585a9322cf868d75b71f017d24a1b7e3ee9
 
 build:
   number: 0
